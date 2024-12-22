@@ -1,7 +1,8 @@
 # Cloud-cost-optimization
-Introduction
-What are the reasons for companies to migrate from on-premises servers to the Cloud?
 
+Introduction
+
+What are the reasons for companies to migrate from on-premises servers to the Cloud?
 Maintenance Overhead
 Highly Expensive
 Not very efficient
